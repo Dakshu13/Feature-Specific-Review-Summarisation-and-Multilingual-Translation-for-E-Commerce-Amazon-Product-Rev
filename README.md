@@ -1,4 +1,4 @@
-# Multilingual-Summarisation-
+# Feature-Specific Review Summarisation and Multilingual Translation for E-Commerce Amazon Product Reviews
 Project Title: Feature-Specific Review Summarisation and Multilingual Translation for E-Commerce Amazon Product Reviews
 
 Overview: Generates aspect-based opinion summaries from English Amazon product reviews and translates them into Tamil and Malayalam across seven aspects — Overall, Product Quality, Value for Money, Packaging and Presentation, Delivery and Shipping, Variety and Curation, and Customer Service. Built without any parallel corpora, using machine translation and cross-lingual LLM generalisation.
